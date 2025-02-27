@@ -446,7 +446,7 @@ The 18-25 group shows a gap in sales, suggesting an opportunity to introduce:
 📢 _By implementing these recommendations, the company can enhance revenue, optimize marketing spend, and improve customer engagement._ 🚀  
 
 
-# Further Information required for enhanced analysis ❗
+## Further Information required for enhanced analysis ❗
 As an analyst, additional data/information would enhance the depth of this analysis, including:
 
 📌**Data on costs**: so that profitability can be calculated - which would be a great financial metric to track, as we can then determine how this company is performing. 
