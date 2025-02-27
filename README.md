@@ -116,7 +116,9 @@ plt.gca().yaxis.set_major_formatter(mtick.FuncFormatter(lambda x, _: f'${x:,.0f}
 plt.grid(True)
 plt.show()
 ```
-![Total Sales by Month](image.png)
+![Sales by Month](https://github.com/user-attachments/assets/c540e354-708f-4cfe-94a6-ddc1c8129466)
+
+
 
 **Key Insights** 🔍
 
@@ -187,7 +189,8 @@ ax.yaxis.set_major_formatter(mtick.FuncFormatter(lambda x, _: f'${x:,.0f}'))
 
 plt.show()
 ```
-![Sales by product category](image-1.png)
+![Sales by Product Category](https://github.com/user-attachments/assets/abff0b40-295b-4455-99e9-c403560321f2)
+
 
 **Key Insights** 🔍
 
@@ -270,7 +273,8 @@ plt.ylabel("Average Sales Volume")
 
 plt.show()
 ```
-![Sales Volume by Discount Range](image-3.png)
+![Sales Volume by Discount Range](https://github.com/user-attachments/assets/8e819154-dfde-4fc9-bce9-d1ca55318467)
+
 
 Regarding 3.2 above - no meaningful analysis can be conducted as the discount ranges are limited to the 0-1%, which is too insignificant to draw any conclusions from.
 
@@ -284,7 +288,8 @@ plt.ylabel("Sales Volume")
 plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
 plt.show()
 ```
-![Impact of Discounts on Sales Volume by Product Category](image-4.png)
+![Impact of Discounts on Sales Volume by Product Category](https://github.com/user-attachments/assets/52e8599a-eab0-439e-bfbd-1c588985e966)
+
 
 Regarding 3.3 above - Because Sales Volume across categories are so similar and also given that there is only 1 discount range (0-1%) that has any data, nothing meaningful can be extracted. What we can say is that Discounts do not seem to have any material impact on sales volume across product categories.
 
@@ -316,7 +321,7 @@ plt.xlabel('Customer Location')
 plt.ylabel('Total Sales')
 plt.show()
 ```
-![Sales by location](image-5.png)
+![Sales by Location](https://github.com/user-attachments/assets/8edfe471-ad0e-48cb-ab18-d699d64f2693)
 
 **Key Insights** 🔍 
 
@@ -377,7 +382,7 @@ plt.xlabel('Age Group')
 plt.ylabel('Total Sales ($)')
 plt.show()
 ```
-![Sales by Age Group](image-6.png)
+![Sales by Age](https://github.com/user-attachments/assets/7ca81b74-88e9-44ea-9fab-d776e2a212a4)
 
 **Key Insights 🔍**
 
@@ -420,9 +425,6 @@ The 18-25 group shows a gap in sales, suggesting an opportunity to introduce:
 🎟️ Exclusive discounts
 
 🏠 Customized promotions
-
-
-
 
 ## Business Strategy & Recommendations 🔆
 
