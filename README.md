@@ -33,7 +33,7 @@ This project leverages the following tools and libraries for data analysis and v
 ## Data 📁
 The dataset used for this analysis contains 1,000,000 rows of online retail sales data. The dataset can be found on Kaggle.
 
-📁 The CSV Data file can be found here: 
+📁 [The CSV Data file can be found here] (https://github.com/jaybachkaniwala/Python_Retail_Store_Analysis/blob/main/Online%20Retail%20Sales%20Dataset.csv)
 
 ## Analysis & Visualizations 💻
 
